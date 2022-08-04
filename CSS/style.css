@@ -1,0 +1,89 @@
+.backbg{
+    background: url("../img/brooke-cagle-g1Kr4Ozfoac-unsplash\ \(1\).jpg");
+    background-size: cover;
+}
+.outer{
+    width: 50%;
+    height: 400px;
+    background-color: deepskyblue;
+    margin-top: 168px;
+    margin-left: 310px;
+}
+.inner{
+    width: 100%;
+    height: 270px;
+    background-color:white ;
+    position: relative;
+    top: -12px;
+}
+.logo{
+    width: 75px;
+    height: 60px;
+    margin-left: 200px;
+    margin-top: 20px;
+    display: inline;
+}
+.head1{
+    color: white;
+    margin-top: 30px;
+    display: inline;
+}
+.head2{
+    margin-top: 10px;
+    margin-right: 100px;
+}
+.content1{
+    width: 48%;
+    height: 250px;
+    background-color:white;
+   
+}
+.content2 {
+    width: 48%;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 290px;
+    top: -249px;
+}
+.ph1{
+    margin-right: 30px;
+}
+.ph2{
+    margin-right: 30px;
+}
+.reg{
+    line-height: 16px;
+}
+.reg2{
+    line-height: 16px;
+}
+.log{
+    color: green;
+
+}
+#bgcolor{
+    border: 1px solid green;
+}
+.box1{
+    width: 320px;
+    height: 20px;
+}
+.box2{
+    width: 320px;
+    height: 20px;
+    margin-top: 10px;
+}
+.for{
+    margin-left: 195px;
+    line-height: 40px;
+}
+.sign{
+    background-color: lightseagreen;
+    width: 320px;
+    height: 20px;
+}
+.para2{
+    margin-top: -16px;
+    margin-left: 20px;
+}
